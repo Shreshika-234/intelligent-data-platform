@@ -1,0 +1,109 @@
+title,price_gbp,price_inr,rating,in_stock,category
+It's Only the Himalayas,45.17,4765.44,2,True,Travel
+Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,5214.86,4,True,Travel
+See America: A Celebration of Our National Parks & Treasured Sites,48.87,5155.78,3,True,Travel
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,3897.17,2,True,Travel
+Under the Tuscan Sun,37.33,3938.31,3,True,Travel
+A Summer In Europe,44.34,4677.87,2,True,Travel
+The Great Railway Bazaar,30.54,3221.97,1,True,Travel
+A Year in Provence (Provence #1),56.88,6000.84,4,True,Travel
+The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,2448.66,1,True,Travel
+Neither Here nor There: Travels in Europe,38.95,4109.23,3,True,Travel
+"1,000 Places to See Before You Die",26.08,2751.44,5,True,Travel
+Rip it Up and Start Again,35.02,3694.61,5,True,Music
+"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,6039.88,3,True,Music
+How Music Works,37.32,3937.26,2,True,Music
+Love Is a Mix Tape (Music #1),18.03,1902.17,1,True,Music
+Please Kill Me: The Uncensored Oral History of Punk,31.19,3290.54,4,True,Music
+Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,4752.77,5,True,Music
+"Chronicles, Vol. 1",52.6,5549.3,2,True,Music
+This Is Your Brain on Music: The Science of a Human Obsession,38.4,4051.2,1,True,Music
+"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,1303.98,3,True,Music
+No One Here Gets Out Alive,20.02,2112.11,5,True,Music
+Life,31.58,3331.69,5,True,Music
+Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,5872.13,2,True,Music
+Forever Rockers (The Rocker #12),28.8,3038.4,3,True,Music
+Wall and Piece,44.18,4660.99,4,True,Art
+Feathers: Displays of Brilliant Plumage,49.05,5174.77,3,True,Art
+Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,5130.46,4,True,Art
+The New Drawing on the Right Side of the Brain,43.02,4538.61,3,True,Art
+History of Beauty,10.29,1085.59,4,True,Art
+The Story of Art,41.14,4340.27,4,True,Art
+The Art Book,32.34,3411.87,2,True,Art
+Ways of Seeing,39.51,4168.3,5,True,Art
+Security,39.25,4140.88,2,True,Horror
+Follow You Home,21.36,2253.48,1,True,Horror
+The Loney,23.4,2468.7,1,True,Horror
+Pet Sematary,10.56,1114.08,3,True,Horror
+Doctor Sleep (The Shining #2),40.12,4232.66,2,True,Horror
+Psycho: Sanitarium (Psycho #1.5),36.97,3900.34,5,True,Horror
+Can You Keep a Secret? (Fear Street Relaunch #4),48.64,5131.52,1,True,Horror
+Red Dragon (Hannibal Lecter #1),23.37,2465.54,3,True,Horror
+Dracula the Un-Dead,35.63,3758.96,5,True,Horror
+Night Shift (Night Shift #1-20),12.75,1345.12,4,True,Horror
+Needful Things,47.51,5012.3,4,True,Horror
+Misery,34.79,3670.34,2,True,Horror
+It,25.01,2638.56,3,True,Horror
+'Salem's Lot,49.56,5228.58,4,True,Horror
+The Stand,57.86,6104.23,2,True,Horror
+The Girl with All the Gifts,49.47,5219.08,3,True,Horror
+House of Leaves,54.89,5790.9,1,True,Horror
+Sapiens: A Brief History of Humankind,54.23,5721.26,5,True,History
+"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,2692.36,1,True,History
+The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,2081.52,1,True,History
+"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,3827.54,2,True,History
+Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,6292.02,1,True,History
+Zealot: The Life and Times of Jesus of Nazareth,24.7,2605.85,3,True,History
+A Distant Mirror: The Calamitous 14th Century,14.58,1538.19,3,True,History
+1491: New Revelations of the Americas Before Columbus,21.8,2299.9,3,True,History
+Brilliant Beacons: A History of the American Lighthouse,11.45,1207.97,3,True,History
+"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,4692.64,5,True,History
+A Short History of Nearly Everything,52.4,5528.2,5,True,History
+The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,4185.19,2,True,History
+Catherine the Great: Portrait of a Woman,58.55,6177.02,4,True,History
+The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,4527.0,5,True,History
+The Hiding Place,55.91,5898.5,4,True,History
+America's War for the Greater Middle East: A Military History,51.22,5403.71,2,True,History
+The Guns of August,14.54,1533.97,2,True,History
+"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,4610.35,2,True,History
+"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,5174.77,3,True,Health
+"Eat Fat, Get Thin",54.07,5704.38,2,True,Health
+10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,5244.4,5,True,Health
+The Art and Science of Low Carbohydrate Living,52.98,5589.39,5,True,Health
+"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,3219.86,3,True,Food and Drink
+"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,5951.25,1,True,Food and Drink
+My Paris Kitchen: Recipes and Stories,33.37,3520.54,2,True,Food and Drink
+"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,1479.11,4,True,Food and Drink
+"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,4231.6,1,True,Food and Drink
+The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,3939.37,5,True,Food and Drink
+The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,3966.8,2,True,Food and Drink
+The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,4351.88,1,True,Food and Drink
+"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,4447.88,3,True,Food and Drink
+The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,3035.24,3,True,Food and Drink
+"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,2062.52,1,True,Food and Drink
+Barefoot Contessa Back to Basics,28.01,2955.06,1,True,Food and Drink
+Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,5340.41,5,True,Food and Drink
+My Kitchen Year: 136 Recipes That Saved My Life,11.53,1216.42,2,True,Food and Drink
+Everyday Italian: 125 Simple and Delicious Recipes,20.1,2120.55,5,True,Food and Drink
+"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,4090.24,1,True,Food and Drink
+Cravings: Recipes for What You Want to Eat,20.5,2162.75,3,True,Food and Drink
+"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,1301.87,4,True,Food and Drink
+32 Yolks,53.63,5657.96,2,True,Food and Drink
+"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,1200.59,5,True,Food and Drink
+How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,4854.05,4,True,Food and Drink
+How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,2980.38,2,True,Food and Drink
+The Barefoot Contessa Cookbook,59.92,6321.56,5,True,Food and Drink
+Better Homes and Gardens New Cook Book,39.61,4178.85,3,True,Food and Drink
+The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,1165.78,5,True,Food and Drink
+Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,2628.0,5,True,Food and Drink
+Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,1441.13,2,True,Food and Drink
+The Smitten Kitchen Cookbook,23.59,2488.74,1,True,Food and Drink
+"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,3620.76,3,True,Food and Drink
+Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,3496.27,3,True,Food and Drink
+"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,4005.84,2,True,Religion
+You Are What You Love: The Spiritual Power of Habit,21.87,2307.29,4,True,Religion
+God: The Most Unpleasant Character in All Fiction,30.03,3168.16,5,True,Religion
+The Book of Mormon,24.57,2592.14,3,True,Religion
+"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,2913.91,1,True,Religion
+The Bhagavad Gita,57.49,6065.2,3,True,Religion
+Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,2998.31,4,True,Religion
