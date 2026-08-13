@@ -1,0 +1,13 @@
+# Install CPU-only PyTorch
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+
+fastapi
+uvicorn
+langchain
+langgraph
+chromadb
+sentence-transformers
+pydantic
+python-dotenv
+numpy
+groq
